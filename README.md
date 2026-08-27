@@ -18,7 +18,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-5C6216.svg?style=flat-square)](https://choosealicense.com/licenses/mit/)
 
 </h4>
-The workbook contains the code and notebook to run PACE (Precise and Accurate Configuration Evaluation).
+The workbook contains the code and notebook to run PACE (Precise and Accelerated Configuration Evaluation).
 
 PACE identifies stable ground-state base–adsorbate configurations through a multistep approach. It begins by performing single-point MLIP calculations on adsorbates placed at predefined grid points within the unit cell, where grid resolution (number of subdivisions along each axis) controls the density of possible adsorption sites.
 
