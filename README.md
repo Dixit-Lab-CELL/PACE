@@ -1,10 +1,10 @@
-<!-- <h1 align="center">PACE (Precise and Accurate Configuration Evaluation)</h1>
+<!-- <h1 align="center">PACE (Precise and Accelerated Configuration Evaluation)</h1>
 
 <h4 align="center">
 
 </h4> -->
 <p align="center">
-  <img src="./logo_2.png" alt="Precise and Accurate Configuration Evaluation" width="600"/>
+  <img src="./logo_2.png" alt="Precise and Accelerated Configuration Evaluation" width="600"/>
 </p>
 <br/>
 
